@@ -16,6 +16,7 @@ function Tiga() {
     return (
         element
     );
+
 }
 
 export default Tiga;

@@ -5,5 +5,3 @@ function getGreeting(user) {
     return <h1>Hello, Stranger.</h1>;
 
 };
-
-const element = <a href="https://www.reactjs.org"> link </a>;
